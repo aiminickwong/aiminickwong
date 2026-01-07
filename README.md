@@ -1,3 +1,3 @@
 ARMer (10+ Years), Gues... 
-[![Star History Chart](https://api.star-history.com/svg?repos=openfans-community-offical/Debian-Pi-Aarch64&type=timeline&legend=top-left)](https://www.star-history.com/#openfans-community-offical/Debian-Pi-Aarch64&type=timeline&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=openfans-community-offical/Debian-Pi-Aarch64&type=Date)](https://www.star-history.com/#openfans-community-offical/Debian-Pi-Aarch64&type=Date)
 
